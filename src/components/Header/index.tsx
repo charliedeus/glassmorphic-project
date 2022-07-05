@@ -7,10 +7,18 @@ export function Header() {
 
       <nav>
         <ul className="flex gap-16 font-bold">
-          <li>Features</li>
-          <li>Screenshots</li>
-          <li>Partners</li>
-          <li>About</li>
+          <li>
+            <a href="/">Features</a>
+          </li>
+          <li>
+            <a href="/">Screenshots</a>
+          </li>
+          <li>
+            <a href="/">Partners</a>
+          </li>
+          <li>
+            <a href="/">About</a>
+          </li>
         </ul>
       </nav>
     </header>
