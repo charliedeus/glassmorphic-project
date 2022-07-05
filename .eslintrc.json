@@ -25,6 +25,8 @@
         "prettier"
     ],
     "rules": {
+      "@next/next/no-img-element": "off",
+      "jsx-a11y/anchor-is-valid": "off",
       "import/prefer-default-export": "off",
       "prettier/prettier": "error",
       "react-hooks/rules-of-hooks": "error",
